@@ -26,6 +26,11 @@ JAVA0078_M4_EmpresaConEmpleados/
 ```
 
 ---
+## Requisitos
+- **Java JDK 8** o superior.
+- IDE recomendado: **Spring Tool Suite (STS)** o **Visual Studio Code**.
+
+---
 ## Ejecución
 1. Compilar los archivos desde la carpeta raiz del proyecto:
    ```bash
@@ -36,6 +41,12 @@ JAVA0078_M4_EmpresaConEmpleados/
    ```bash
    java -cp bin com.Aplicacion
    ```
+---
+## Generar Javadoc
+
+```bash
+javadoc -d javadoc src/clases/*.java
+```
 
 ---
 ## Ejemplo de salida
