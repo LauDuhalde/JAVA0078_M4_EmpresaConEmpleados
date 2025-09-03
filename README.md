@@ -45,7 +45,7 @@ JAVA0078_M4_EmpresaConEmpleados/
 ## Generar Javadoc
 
 ```bash
-javadoc -d javadoc com/Aplicacion.java com/clases/*.java
+javadoc -d javadoc src/com/Aplicacion.java src/com/clases/*.java
 ```
 
 ---
